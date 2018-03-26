@@ -3,6 +3,11 @@ Custom NYC Shapefile
 
 Download the most recent Pedia Cities NYC neighborhood shapefile, then alter it slightly and save as a GEOJSON file.
 
+CURRENT NEIGHBORHOOD SHAPEFILE:
+===============================
+
+`"custom-pedia-cities-nyc-Mar2018.geojson"`
+
 CHANGES FROM BASE PEDIACITIES FILE:
 ===================================
 
